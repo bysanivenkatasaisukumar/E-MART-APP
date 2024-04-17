@@ -1,19 +1,8 @@
-**E-MART-APP**
+# React + Vite
 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-**PPT**
+Currently, two official plugins are available:
 
-[Online Ecommers E-mart App Design.pptx](https://github.com/maheshkoppula/M-MART-App/files/14291488/Online.Ecommers.E-mart.App.Design.pptx)
-
-
-
-**Screen Recorded Vedio**
-
-https://github.com/maheshkoppula/M-MART-App/assets/114980110/684471e3-6289-4947-b0cb-59ba08643646
-
-
-**Documentation**
-
-[Online Ecommers E-mart App Design.pdf](https://github.com/maheshkoppula/M-MART-App/files/14291528/Online.Ecommers.E-mart.App.Design.pdf)
-
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
